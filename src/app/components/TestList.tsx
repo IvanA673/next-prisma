@@ -50,7 +50,7 @@ export default function TestList() {
     }
 
     // There are many ways to handle deleting an entry. Deleting is special because you need to know
-    // which entry to delete. You can pass the id of the entry to the server in a few different ways.
+    // which entry to delete. You can pass the id of the entry to the API route handler in a few different ways.
     // Here are three examples of how you can delete an entry from the list.
 
 
